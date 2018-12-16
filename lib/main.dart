@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(Devpoll());
 
-//added this comment for a test commit poush to github
+
 //classes used to create blueprint for new widgets (objects)
 class Devpoll extends StatelessWidget {
   @override
